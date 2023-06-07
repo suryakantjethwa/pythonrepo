@@ -9,8 +9,6 @@ myset = set(["Geeks", "For", "Geeks"])
 
 print('myset ===>' , myset)
 
-
-
 #User input
 #name = input("Enter your name: ")
 #print("hello", name)
